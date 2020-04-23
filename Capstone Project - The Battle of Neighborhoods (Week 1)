@@ -9,7 +9,7 @@ would like to see a short list of neighborhoods where food trucks potentially wo
 Data
 
 This project requires two pieces of data. The first piece is the list of all Chicago neighborhoods and their 
-latitude and longitude. This piece of data will be taken from the website called Zillow. The data is in Geojson file.
+latitude and longitude. This piece of data will be taken from the website called Data.Opendatasoft. The data is in Geojson file.
 The second piece of data will be acquired through Fouresquare. This piece of data will provide the most common venues 
 for each Chicago neighborhood. For example, a Chicago neighborhood Chrysler Village (Lat: 41.7764, Lon: -87.7518) has an 
 airport terminal, airport service and heliport as the most common venues, which do not look like the best food truck 
